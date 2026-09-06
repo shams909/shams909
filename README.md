@@ -1,333 +1,138 @@
 <div align="center">
 
-<br>
-
-# 𝑺𝒉𝒂𝒎𝒔
-
-### `Computer Science · Systems · Security · Intelligence`
+<img src="https://capsule-render.vercel.app/api?type=line&color=0:050505,50:6B0F1A,100:050505&height=2&width=100%" width="100%"/>
 
 <br>
 
-**Building quietly.
-Understanding deeply.**
+```text
+ ███████╗██╗  ██╗ █████╗ ███╗   ███╗███████╗
+ ██╔════╝██║  ██║██╔══██╗████╗ ████║██╔════╝
+ ███████╗███████║███████║██╔████╔██║███████╗
+ ╚════██║██╔══██║██╔══██║██║╚██╔╝██║╚════██║
+ ███████║██║  ██║██║  ██║██║ ╚═╝ ██║███████║
+ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝
+```
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1400&color=8B1A2E&center=true&vCenter=true&width=560&letterSpacing=4px&lines=S+Y+S+T+E+M+S+·+S+E+C+U+R+I+T+Y+·+I+N+F+R+A" alt="typing"/>
 
 <br><br>
 
-`LINUX`　·　`AI / ML`　·　`CYBERSECURITY`　·　`SYSTEMS`　·　`INFRASTRUCTURE`
+*I don't just use systems. I take them apart.*
 
 <br>
 
 </div>
 
----
+<br>
 
-<div align="center">
+### `whoami`
 
-### 𝐓𝐇𝐄 𝐏𝐑𝐎𝐅𝐈𝐋𝐄
+```text
+shams909
+Computer Science & Engineering — Final Year
 
-</div>
+building        software / systems / infrastructure
+exploring       AI / ML / cybersecurity
+operating       Linux · networks · self-hosted infrastructure
+currently       turning ideas into working systems
+```
+
+I like understanding what happens beneath the abstraction — backend systems, Linux, networks, security, machine learning. If something is interesting enough, I'd rather build a smaller version of it myself than trust it blindly.
 
 <br>
 
-I'm a Computer Science & Engineering undergraduate fascinated by the things that exist **beneath the interface**.
-
-I build backend systems, experiment with Linux and infrastructure, explore cybersecurity and machine learning, and spend an unreasonable amount of time wondering how systems work internally.
-
-My interests live somewhere between:
-
-**software engineering × systems × security × intelligence**
-
-<br>
-
-<div align="center">
-
-`not here to collect technologies.`
-
-### `here to understand them.`
-
-</div>
-
----
-
-<div align="center">
-
-### 𝐓𝐇𝐄 𝐀𝐑𝐒𝐄𝐍𝐀𝐋
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### SYSTEMS
-
-`Linux`
-`Networking`
-`Distributed Systems`
-`Virtualization`
-`Performance`
-
-</td>
-
-<td align="center" width="50%">
-
-### SECURITY
-
-`IoT Security`
-`Intrusion Detection`
-`Network Security`
-`Security Research`
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### INTELLIGENCE
-
-`Machine Learning`
-`Deep Learning`
-`Computer Vision`
-`NLP`
-
-</td>
-
-<td align="center">
-
-### INFRASTRUCTURE
-
-`Docker`
-`Self-hosting`
-`Cloud`
-`Automation`
-`Homelabs`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-### `AND A LITTLE OBSESSION WITH PERFORMANCE`
-
-`Algorithmic Trading` · `Market Systems` · `HFT Concepts`
-
-</div>
-
----
-
-<div align="center">
-
-### 𝐖𝐎𝐑𝐊
-
-</div>
-
-<br>
+### `interests`
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### `01` — HOMELAB
-
-A personal infrastructure playground built around Linux, virtualization, containers and networking.
-
-**Explored**
-
-`Proxmox` · `Docker` · `Tailscale`
-`AdGuard Home` · `Nextcloud` · `Navidrome`
-
-Not just self-hosting.
-
-**Learning infrastructure by running it.**
-
-</td>
-
-<td width="50%" valign="top">
-
-### `02` — ENTERPRISE BACKEND
-
-A multi-company Restaurant Management System designed around clean enterprise architecture.
-
-**Built with**
-
-`C#` · `.NET` · `ASP.NET Core`
-`SQL Server` · `JWT` · `Clean Architecture`
-
-Architecture before abstraction.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### `03` — IOT / IDS RESEARCH
-
-Exploring machine-learning-based intrusion detection beyond benchmark numbers.
-
-The question isn't:
-
-> *"Can the model reach 99%?"*
-
-It's:
-
-> **"What happens when the environment changes?"**
-
-`IoT Security` · `ML` · `Generalization`
-
-</td>
-
-<td width="50%" valign="top">
-
-### `04` — STREAMING PLATFORM
-
-A lightweight platform built around real-world content delivery and access control.
-
-`Authentication`
-`Device Restrictions`
-`Real-time Systems`
-`Automated Media Workflows`
-
-Built because there was a problem to solve.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### 𝐓𝐇𝐄 𝐒𝐓𝐀𝐂𝐊
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=cs,cpp,python,dotnet,angular,postgres,docker,linux,git,github,proxmox&theme=dark" />
-
-<br><br>
-
-`C#`　`C++`　`Python`　`SQL`
-
-`ASP.NET Core`　`.NET`　`Angular`
-
-`Docker`　`Linux`　`Git`　`Proxmox`
-
-</div>
-
----
-
-<div align="center">
-
-### 𝐑𝐄𝐒𝐄𝐀𝐑𝐂𝐇
-
-<br>
-
-<table>
-<tr>
-<td align="center">
-
-**01**
-
-### GENERALIZATION
-
-Models that survive outside the dataset they were trained on.
-
-</td>
-
-<td align="center">
-
-**02**
-
-### SECURITY
-
-Systems designed with adversarial environments in mind.
-
-</td>
-
-<td align="center">
-
-**03**
-
-### SYSTEMS
-
-Understanding performance, reliability and infrastructure.
-
-</td>
-</tr>
+<tr><td width="20%"><strong>Systems</strong></td><td>Linux · Networking · Distributed Systems · Virtualization</td></tr>
+<tr><td><strong>Security</strong></td><td>Network Security · IoT Security · Intrusion Detection</td></tr>
+<tr><td><strong>Intelligence</strong></td><td>Machine Learning · Deep Learning · Computer Vision · NLP</td></tr>
+<tr><td><strong>Infrastructure</strong></td><td>Self-hosting · Docker · Automation · Homelabs</td></tr>
+<tr><td><strong>Quant</strong></td><td>Algorithmic Trading · Market Systems</td></tr>
 </table>
 
 <br>
 
-**The benchmark is not the battlefield.**
+### `projects`
 
-</div>
+**homelab**
+Hands-on infrastructure environment — Linux, virtualization, networking, self-hosted services on Proxmox, running Docker, Tailscale, AdGuard, and a handful of self-hosted apps.
+<sub>networking · containers · virtualization · self-hosting</sub>
 
----
+**restaurant-management-system**
+Multi-tenant Clean Architecture backend built as a hands-on internship project — C#/ASP.NET Core across Domain, Application, Infrastructure and Presentation layers, backed by SQL Server, paired with a React frontend.
+<sub>REST APIs · JWT · SQL Server · Clean Architecture</sub>
 
-<div align="center">
+**iot-ids-research**
+Exploring a question more interesting than a 99% accuracy number — *does the model still generalize once the environment changes?* IoT traffic → feature representation → ML/DL models → cross-dataset evaluation → real-world robustness.
+<sub>IoT security · intrusion detection · generalization</sub>
 
-### 𝐂𝐔𝐑𝐑𝐄𝐍𝐓𝐋𝐘
+**streaming-platform**
+Content-delivery platform built to solve an actual piracy problem — authentication, device restrictions, role-based access, real-time notifications, automated media workflows.
+<sub>auth · access control · automation</sub>
 
 <br>
 
-`Learning Machine Learning`
+### `stack`
 
-`Exploring Cybersecurity`
+```text
+Languages    C#, C++, Python, SQL
+Backend      .NET · ASP.NET Core/MVC · React · JWT · Clean Architecture
+Systems      Linux · Docker · Proxmox · Tailscale · Networking
+Exploring    ML/DL · Cybersecurity · IoT Security · Distributed Systems
+```
 
-`Building Backend Systems`
+<br>
 
-`Studying Distributed Systems`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=line&color=0:050505,50:6B0F1A,100:050505&height=2&width=100%" width="100%"/>
+</div>
 
-`Experimenting with Infrastructure`
+<br>
 
-`Researching IoT Security`
+### `activity`
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=shams909&show_icons=true&hide_border=true&bg_color=050505&title_color=8B1A2E&icon_color=6b6b6b&text_color=b5b5b5&border_radius=6&hide_rank=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shams909&layout=compact&hide_border=true&bg_color=050505&title_color=8B1A2E&text_color=b5b5b5&border_radius=6"/>
 
 <br><br>
 
-**Still learning.
-Still building.
-Still breaking things.**
+<img src="https://streak-stats.demolab.com?user=shams909&hide_border=true&background=050505&stroke=050505&ring=8B1A2E&fire=8B1A2E&currStreakLabel=8B1A2E&sideLabels=b5b5b5&currStreakNum=e5e5e5&sideNums=b5b5b5&dates=555555" alt="streak"/>
+
+<br><br>
+
+<img src="https://ghchart.rshah.org/6B0F1A/shams909" alt="contributions" width="100%"/>
 
 </div>
 
----
-
-<div align="center">
-
-### 𝐆𝐈𝐓𝐇𝐔𝐁
-
 <br>
 
-<img src="https://ghchart.rshah.org/555555/shams909" width="100%" alt="GitHub Contribution Graph"/>
+### `status`
 
-<br>
+```text
+On branch main
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shams909&theme=github-compact&color=777777&line=555555&point=ffffff&hide_border=true" width="100%" alt="GitHub Activity"/>
+    modified:   knowledge
+    modified:   systems
+    modified:   research
 
-<br>
-
-<img src="https://streak-stats.demolab.com?user=shams909&theme=dark&background=00000000&border=00000000&ring=666666&fire=888888&currStreakLabel=aaaaaa" alt="GitHub Streak"/>
-
-</div>
-
----
+nothing is finished. everything is in progress.
+```
 
 <br>
 
 <div align="center">
 
-### 𝑺𝒊𝒍𝒆𝒏𝒕 𝒃𝒖𝒊𝒍𝒅𝒔.
-
-### 𝑳𝒐𝒖𝒅 𝒓𝒆𝒔𝒖𝒍𝒕𝒔.
+<img src="https://capsule-render.vercel.app/api?type=line&color=0:050505,50:6B0F1A,100:050505&height=2&width=100%" width="100%"/>
 
 <br>
 
-`© SHAMS909`
+<sub>BUILD → BREAK → UNDERSTAND → REBUILD</sub>
+
+<br><br>
 
 </div>
