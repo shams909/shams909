@@ -1,322 +1,333 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=line&color=0:0a0a0a,25:00FFC2,50:8A2BE2,75:FF2E88,100:0a0a0a&height=3&width=100%" width="100%"/>
+<br>
 
-```text
- ███████╗██╗  ██╗ █████╗ ███╗   ███╗███████╗
- ██╔════╝██║  ██║██╔══██╗████╗ ████║██╔════╝
- ███████╗███████║███████║██╔████╔██║███████╗
- ╚════██║██╔══██║██╔══██║██║╚██╔╝██║╚════██║
- ███████║██║  ██║██║  ██║██║ ╚═╝ ██║███████║
- ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝
-```
+# 𝑺𝒉𝒂𝒎𝒔
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00FFC2&center=true&vCenter=true&width=650&lines=SYSTEMS+%2F+SECURITY+%2F+AI+%2F+INFRASTRUCTURE;CSE+UNDERGRADUATE+%7C+LINUX+%7C+NETWORKING;I+don't+just+use+systems.+I+take+them+apart." alt="Typing SVG"/>
+### `Computer Science · Systems · Security · Intelligence`
 
-<img src="https://capsule-render.vercel.app/api?type=line&color=0:0a0a0a,25:FF2E88,50:8A2BE2,75:00FFC2,100:0a0a0a&height=3&width=100%" width="100%"/>
+<br>
+
+**Building quietly.
+Understanding deeply.**
+
+<br><br>
+
+`LINUX`　·　`AI / ML`　·　`CYBERSECURITY`　·　`SYSTEMS`　·　`INFRASTRUCTURE`
+
+<br>
+
+</div>
+
+---
+
+<div align="center">
+
+### 𝐓𝐇𝐄 𝐏𝐑𝐎𝐅𝐈𝐋𝐄
 
 </div>
 
 <br>
 
-```text
-┌─────────────────────────────────────────────────────────────────────┐
-│  $ whoami                                                            │
-└─────────────────────────────────────────────────────────────────────┘
-```
+I'm a Computer Science & Engineering undergraduate fascinated by the things that exist **beneath the interface**.
 
-```text
-shams909
+I build backend systems, experiment with Linux and infrastructure, explore cybersecurity and machine learning, and spend an unreasonable amount of time wondering how systems work internally.
 
-Computer Science & Engineering
-──────────────────────────────
-building        → software / systems / infrastructure
-exploring       → AI / ML / cybersecurity
-operating       → Linux / networks / self-hosted infrastructure
-interested_in   → distributed systems / performance / security
-currently       → turning ideas into working systems
-```
+My interests live somewhere between:
 
-I like understanding what happens **beneath the abstraction** — backend systems, Linux, networks, infrastructure, security, machine learning, distributed systems. If something is interesting enough, I'd rather build a smaller version of it myself than blindly trust the abstraction.
-
-<img src="https://capsule-render.vercel.app/api?type=line&color=0:0a0a0a,50:00FFC2,100:0a0a0a&height=2&width=100%" width="100%"/>
-
-```text
-┌─────────────────────────────────────────────────────────────────────┐
-│  $ cat /etc/interests                                                │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-```text
-01  SYSTEMS
-    ├── Linux
-    ├── Networking
-    ├── Distributed Systems
-    ├── Performance Engineering
-    └── Virtualization
-
-02  SECURITY
-    ├── Network Security
-    ├── IoT Security
-    ├── Intrusion Detection
-    └── Security Research
-
-03  INTELLIGENCE
-    ├── Machine Learning
-    ├── Deep Learning
-    ├── Computer Vision
-    └── NLP
-
-04  INFRASTRUCTURE
-    ├── Self-hosting
-    ├── Docker
-    ├── Cloud
-    ├── Automation
-    └── Homelabs
-
-05  QUANT
-    ├── Algorithmic Trading
-    ├── Market Systems
-    └── HFT Concepts
-```
-
-<img src="https://capsule-render.vercel.app/api?type=line&color=0:0a0a0a,50:8A2BE2,100:0a0a0a&height=2&width=100%" width="100%"/>
-
-```text
-┌─────────────────────────────────────────────────────────────────────┐
-│  $ ls -la ~/projects                                                 │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-### `homelab`
-
-A hands-on infrastructure environment built around Linux, virtualization, networking, and self-hosted services.
-
-```text
-                    ┌──────────────┐
-                    │    NETWORK   │
-                    └──────┬───────┘
-                           │
-                    ┌──────▼───────┐
-                    │   PROXMOX    │
-                    └──────┬───────┘
-                           │
-              ┌────────────┼────────────┐
-              │            │            │
-           Docker      Tailscale       Linux
-              │
-       ┌──────┼──────┬──────────┐
-       │      │      │          │
-    AdGuard  Nextcloud  Navidrome  Services
-```
-
-`networking` · `containers` · `virtualization` · `self-hosting`
-
----
-
-### `restaurant-management-system`
-
-Enterprise-style multi-tenant backend, built as a hands-on internship project.
-
-```text
-C# / ASP.NET Core
-        │
-        ▼
-Clean Architecture
-        │
-        ├── Domain
-        ├── Application
-        ├── Infrastructure
-        └── Presentation
-                │
-                ▼
-             SQL Server
-```
-
-`REST APIs` · `JWT` · `SQL Server` · `Clean Architecture` · `React`
-
----
-
-### `iot-ids-research`
-
-Exploring a problem I find more interesting than simply getting a **99% accuracy score**:
-
-> **Does the model actually generalize when the environment changes?**
-
-```text
-IoT Traffic
-     │
-     ▼
-Feature Representation
-     │
-     ▼
-ML / DL Models
-     │
-     ▼
-Cross-Dataset Evaluation
-     │
-     ▼
-Generalization
-     │
-     ▼
-Real-World Robustness
-```
-
-`IoT security` · `intrusion detection` · `machine learning` · `generalization`
-
----
-
-### `streaming-platform`
-
-A lightweight content-delivery platform experimenting with:
-
-```text
-authentication
-device restrictions
-role-based access
-real-time notifications
-automated media workflows
-cloud databases
-```
-
-Built to solve an actual piracy problem rather than to exist as a portfolio project.
-
-<img src="https://capsule-render.vercel.app/api?type=line&color=0:0a0a0a,50:FF2E88,100:0a0a0a&height=2&width=100%" width="100%"/>
-
-```text
-┌─────────────────────────────────────────────────────────────────────┐
-│  $ cat /etc/stack                                                    │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-```text
-LANGUAGES
-─────────
-C#        ████████████████████
-C++       ████████████████
-Python    ██████████████
-SQL       ███████████████
-
-BACKEND
-───────
-.NET
-ASP.NET Core
-ASP.NET MVC
-Angular / React
-JWT
-SQL Server
-Clean Architecture
-
-SYSTEMS
-───────
-Linux
-Docker
-Git
-Proxmox
-Networking
-Tailscale
-Self-hosting
-
-EXPLORING
-─────────
-Machine Learning
-Deep Learning
-Cybersecurity
-IoT Security
-Distributed Systems
-NLP
-Computer Vision
-Quantitative Systems
-```
-
-<img src="https://capsule-render.vercel.app/api?type=line&color=0:0a0a0a,50:00FFC2,100:0a0a0a&height=2&width=100%" width="100%"/>
-
-```text
-┌─────────────────────────────────────────────────────────────────────┐
-│  $ uptime                                                            │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-```text
-learning        ████████████████████████████████████████  running
-building        ████████████████████████████████████████  running
-experimenting   ████████████████████████████████████████  running
-sleep           ██████                                     unstable
-```
-
-<img src="https://capsule-render.vercel.app/api?type=line&color=0:0a0a0a,50:8A2BE2,100:0a0a0a&height=2&width=100%" width="100%"/>
-
-```text
-┌─────────────────────────────────────────────────────────────────────┐
-│  $ git log --oneline                                                 │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-```text
-research: explore generalization beyond benchmark accuracy
-build:    turn architecture diagrams into running systems
-learn:    go deeper into ML and distributed systems
-break:    understand why the system breaks
-repeat:   rebuild it better
-```
-
-<img src="https://capsule-render.vercel.app/api?type=line&color=0:0a0a0a,50:FF2E88,100:0a0a0a&height=2&width=100%" width="100%"/>
-
-<div align="center">
-
-### `ACTIVITY`
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shams909&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00FFC2&icon_color=8A2BE2&text_color=c9d1d9&border_radius=8"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shams909&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00FFC2&text_color=c9d1d9&border_radius=8"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=shams909&hide_border=true&background=0a0a0a&stroke=0a0a0a&ring=00FFC2&fire=FF2E88&currStreakLabel=00FFC2&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=666666" alt="GitHub Streak"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shams909&bg_color=0a0a0a&color=00FFC2&line=8A2BE2&point=FF2E88&hide_border=true" width="100%"/>
-
-<br><br>
-
-<img src="https://ghchart.rshah.org/00FFC2/shams909" alt="Contribution Graph" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=line&color=0:0a0a0a,50:00FFC2,100:0a0a0a&height=2&width=100%" width="100%"/>
-
-```text
-┌─────────────────────────────────────────────────────────────────────┐
-│  $ git status                                                        │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-```text
-On branch main
-
-Changes not staged for commit:
-
-    modified:   knowledge
-    modified:   systems
-    modified:   research
-    modified:   engineering
-
-nothing is finished.
-everything is in progress.
-```
+**software engineering × systems × security × intelligence**
 
 <br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=line&color=0:0a0a0a,25:00FFC2,50:8A2BE2,75:FF2E88,100:0a0a0a&height=3&width=100%" width="100%"/>
+`not here to collect technologies.`
 
-```text
-BUILD  →  BREAK  →  UNDERSTAND  →  REBUILD
-```
+### `here to understand them.`
 
-**stay curious. stay dangerous.**
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=line&color=0:0a0a0a,25:FF2E88,50:8A2BE2,75:00FFC2,100:0a0a0a&height=3&width=100%" width="100%"/>
+---
+
+<div align="center">
+
+### 𝐓𝐇𝐄 𝐀𝐑𝐒𝐄𝐍𝐀𝐋
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### SYSTEMS
+
+`Linux`
+`Networking`
+`Distributed Systems`
+`Virtualization`
+`Performance`
+
+</td>
+
+<td align="center" width="50%">
+
+### SECURITY
+
+`IoT Security`
+`Intrusion Detection`
+`Network Security`
+`Security Research`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### INTELLIGENCE
+
+`Machine Learning`
+`Deep Learning`
+`Computer Vision`
+`NLP`
+
+</td>
+
+<td align="center">
+
+### INFRASTRUCTURE
+
+`Docker`
+`Self-hosting`
+`Cloud`
+`Automation`
+`Homelabs`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### `AND A LITTLE OBSESSION WITH PERFORMANCE`
+
+`Algorithmic Trading` · `Market Systems` · `HFT Concepts`
+
+</div>
+
+---
+
+<div align="center">
+
+### 𝐖𝐎𝐑𝐊
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `01` — HOMELAB
+
+A personal infrastructure playground built around Linux, virtualization, containers and networking.
+
+**Explored**
+
+`Proxmox` · `Docker` · `Tailscale`
+`AdGuard Home` · `Nextcloud` · `Navidrome`
+
+Not just self-hosting.
+
+**Learning infrastructure by running it.**
+
+</td>
+
+<td width="50%" valign="top">
+
+### `02` — ENTERPRISE BACKEND
+
+A multi-company Restaurant Management System designed around clean enterprise architecture.
+
+**Built with**
+
+`C#` · `.NET` · `ASP.NET Core`
+`SQL Server` · `JWT` · `Clean Architecture`
+
+Architecture before abstraction.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### `03` — IOT / IDS RESEARCH
+
+Exploring machine-learning-based intrusion detection beyond benchmark numbers.
+
+The question isn't:
+
+> *"Can the model reach 99%?"*
+
+It's:
+
+> **"What happens when the environment changes?"**
+
+`IoT Security` · `ML` · `Generalization`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `04` — STREAMING PLATFORM
+
+A lightweight platform built around real-world content delivery and access control.
+
+`Authentication`
+`Device Restrictions`
+`Real-time Systems`
+`Automated Media Workflows`
+
+Built because there was a problem to solve.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 𝐓𝐇𝐄 𝐒𝐓𝐀𝐂𝐊
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=cs,cpp,python,dotnet,angular,postgres,docker,linux,git,github,proxmox&theme=dark" />
+
+<br><br>
+
+`C#`　`C++`　`Python`　`SQL`
+
+`ASP.NET Core`　`.NET`　`Angular`
+
+`Docker`　`Linux`　`Git`　`Proxmox`
+
+</div>
+
+---
+
+<div align="center">
+
+### 𝐑𝐄𝐒𝐄𝐀𝐑𝐂𝐇
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+**01**
+
+### GENERALIZATION
+
+Models that survive outside the dataset they were trained on.
+
+</td>
+
+<td align="center">
+
+**02**
+
+### SECURITY
+
+Systems designed with adversarial environments in mind.
+
+</td>
+
+<td align="center">
+
+**03**
+
+### SYSTEMS
+
+Understanding performance, reliability and infrastructure.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+**The benchmark is not the battlefield.**
+
+</div>
+
+---
+
+<div align="center">
+
+### 𝐂𝐔𝐑𝐑𝐄𝐍𝐓𝐋𝐘
+
+<br>
+
+`Learning Machine Learning`
+
+`Exploring Cybersecurity`
+
+`Building Backend Systems`
+
+`Studying Distributed Systems`
+
+`Experimenting with Infrastructure`
+
+`Researching IoT Security`
+
+<br><br>
+
+**Still learning.
+Still building.
+Still breaking things.**
+
+</div>
+
+---
+
+<div align="center">
+
+### 𝐆𝐈𝐓𝐇𝐔𝐁
+
+<br>
+
+<img src="https://ghchart.rshah.org/555555/shams909" width="100%" alt="GitHub Contribution Graph"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shams909&theme=github-compact&color=777777&line=555555&point=ffffff&hide_border=true" width="100%" alt="GitHub Activity"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=shams909&theme=dark&background=00000000&border=00000000&ring=666666&fire=888888&currStreakLabel=aaaaaa" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+### 𝑺𝒊𝒍𝒆𝒏𝒕 𝒃𝒖𝒊𝒍𝒅𝒔.
+
+### 𝑳𝒐𝒖𝒅 𝒓𝒆𝒔𝒖𝒍𝒕𝒔.
+
+<br>
+
+`© SHAMS909`
 
 </div>
